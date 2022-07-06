@@ -1,0 +1,1 @@
+{"name":"Local: TableChair","url":"c:\\Users\\vasan\\Desktop\\vs code\\My_Space\\TableChair.cpp","tests":[{"id":1608892025349,"input":"3\n4 4 4 4\n7 1 2 3\n5 2 3 6","output":"0\n1\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\vasan\\Desktop\\vs code\\My_Space\\TableChair.cpp","group":"local","local":true}

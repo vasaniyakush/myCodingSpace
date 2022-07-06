@@ -1,0 +1,1 @@
+{"name":"Local: BreakThatArray","url":"c:\\Users\\vasan\\Desktop\\vs code\\My_Space\\BreakThatArray.cpp","tests":[{"id":1619546598016,"input":"5\n4 8 6 3 2","output":"4 6 2 6 3 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\vasan\\Desktop\\vs code\\My_Space\\BreakThatArray.cpp","group":"local","local":true}

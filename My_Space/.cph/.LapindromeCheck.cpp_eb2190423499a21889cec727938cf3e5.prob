@@ -1,0 +1,1 @@
+{"name":"Local: LapindromeCheck","url":"c:\\Users\\vasan\\Desktop\\vs code\\My_Space\\LapindromeCheck.cpp","tests":[{"id":1610386783139,"input":"6\ngaga\nabcde\nrotor\nxyzxy\nabbaab\nababc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\vasan\\Desktop\\vs code\\My_Space\\LapindromeCheck.cpp","group":"local","local":true}

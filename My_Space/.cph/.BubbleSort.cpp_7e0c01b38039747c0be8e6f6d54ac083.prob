@@ -1,0 +1,1 @@
+{"name":"Local: BubbleSort","url":"c:\\Users\\vasan\\Desktop\\vs code\\My_Space\\BubbleSort.cpp","tests":[{"id":1611066594789,"input":"5\n54 4 43 6 654","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\vasan\\Desktop\\vs code\\My_Space\\BubbleSort.cpp","group":"local","local":true}

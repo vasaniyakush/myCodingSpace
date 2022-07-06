@@ -1,0 +1,1 @@
+{"name":"Local: CatAndDogs","url":"c:\\Users\\vasan\\Desktop\\vs code\\My_Space\\CatAndDogs.cpp","tests":[{"id":1618678150714,"input":"3\n1 1 8\n1 1 4\n1 1 2","output":"yes\nyes\nno"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\vasan\\Desktop\\vs code\\My_Space\\CatAndDogs.cpp","group":"local","local":true}
